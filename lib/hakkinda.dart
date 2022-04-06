@@ -13,7 +13,7 @@ class hakkinda extends StatelessWidget {
       body: Padding(
         padding: const EdgeInsets.all(10.0),
         child: Text(
-            'Bu uygulama Dr. Öğretim Üyesi Ahmet Cevahir ÇINAR tarafından yürütülen git i kodlu MOBİL PROGRAMLAMA dersi kapsamında 193311044 numaralı Öğrenci Rıdvan Bakır  tarafından 06 Nisan 2022 günü yapılmıştır.'),
+            'Bu uygulama Dr. Öğretim Üyesi Ahmet Cevahir ÇINAR tarafından yürütülen 3311456 kodlu MOBİL PROGRAMLAMA dersi kapsamında 193311044 numaralı Öğrenci Rıdvan Bakır  tarafından 06 Nisan 2022 günü yapılmıştır.'),
       ),
     );
   }
