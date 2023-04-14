@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-cd /Users/akadi/StudioProjects/asi
 List dozList = [
   [
     false,
